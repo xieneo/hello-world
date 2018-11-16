@@ -1,3 +1,2 @@
 # hello-world
-my second repository
-this is branch demo
+There is nothing here, it's just for a little test.
