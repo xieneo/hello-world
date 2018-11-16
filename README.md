@@ -1,3 +1,3 @@
 # hello-world
-my second repository
-this is the master
+Today is 2018.11.16.This afternoon I accompanied my wife to do a physical check in the hospital.
+On the way back, i felt quite unhappy.I don't know why. After we arrived at home, we decided to go to the market to buy some fresh vegetables and meat.Usually we order food online and have them delivered to our doorstep, because there are no markets near here. She thinks the meat we bought online was not fresh, and suggested that we go to the market to buy some fresh meat. But the market was far away, i didn't want to go there.But she insisted and it was still early, i agreed to go.By the way i can get my bike fixed which was broken last weekend.It took us a long time to go to the market.But when we got there, we found the market was demolished.We were very dissappointed, but fortunately, we got our bike fixed.
